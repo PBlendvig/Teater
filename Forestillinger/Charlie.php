@@ -12,6 +12,19 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 </style>
 <body>
 
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+    <a href="#home" class="w3-bar-item w3-button"><b>Milles</b> Teater</a>
+    <!-- Float links to the right. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="#projects" class="w3-bar-item w3-button">Forestillinger</a>
+      <a href="#about" class="w3-bar-item w3-button">Om os</a>
+      <a href="#contact" class="w3-bar-item w3-button">Kontakt</a>
+    </div>
+  </div>
+</div>
+
 
 <!-- Sidebar/menu -->
 <nav class="w3-sidebar w3-light-grey w3-collapse w3-top" style="z-index:3;width:260px" id="mySidebar">
