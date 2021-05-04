@@ -18,7 +18,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
     <a href="#home" class="w3-bar-item w3-button"><b>Milles</b> Teater</a>
     <!-- Float links to the right. Hide them on small screens -->
     <div class="w3-right w3-hide-small">
-      <a href="#projects" class="w3-bar-item w3-button">Forestillinger</a>
+      <a href="../Forside/index.html#projects" class="w3-bar-item w3-button">Forestillinger</a>
       <a href="#about" class="w3-bar-item w3-button">Om os</a>
       <a href="#contact" class="w3-bar-item w3-button">Kontakt</a>
     </div>
