@@ -14,24 +14,26 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="../header.css">
   <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
   <script src="database.js"></script>
   <link rel="icon" href="Billeder/PenisAvatar.jpg" type="image/gif" sizes="16x16">
 
 <body>
-    <!-- Header -->
-    <div class="topnav">
-      <a href="../Forside/index.html">Forside</a>
-      <a href="../BesogOs/index.html">Besøg os</a>
-      <a href="../Deltag/index.html">Deltag</a>
-      <a class="active" href="../StotOs/index.html">Støt os</a>
-      <a href="../OmOs/index.html">Om os</a>
-      <a href="../Uddannelse/index.html">Uddannelse</a>
-
-      <a href="../Donation/index.html">Donation</a>
-      <a href="../Lokation/index.html">Lokation</a>
-      <div class="logotop">
-      </div>
+     <!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+    <a href="../Forside/index.html#home" class="w3-bar-item w3-button"><b>Milles</b> Teater</a>
+    <!-- Float links to the right. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="../Forside/index.html#projects" class="w3-bar-item w3-button">Forestillinger</a>
+      <a href="../OmOs/index.html" class="w3-bar-item w3-button">Find Vej!</a>
+      <a href="../StotOs/index.php#contact" class="w3-bar-item w3-button">Kontakt</a>
     </div>
+  </div>
+</div>
 
 
     <form action="action_page.php" method="post" enctype="multipart/form-data">

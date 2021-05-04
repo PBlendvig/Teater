@@ -15,12 +15,12 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-wide w3-padding w3-card">
-    <a href="#home" class="w3-bar-item w3-button"><b>Milles</b> Teater</a>
+    <a href="../Forside/index.html#home" class="w3-bar-item w3-button"><b>Milles</b> Teater</a>
     <!-- Float links to the right. Hide them on small screens -->
     <div class="w3-right w3-hide-small">
       <a href="../Forside/index.html#projects" class="w3-bar-item w3-button">Forestillinger</a>
-      <a href="#about" class="w3-bar-item w3-button">Om os</a>
-      <a href="#contact" class="w3-bar-item w3-button">Kontakt</a>
+      <a href="../OmOs/index.html" class="w3-bar-item w3-button">Find Vej!</a>
+      <a href="../StotOs/index.php#contact" class="w3-bar-item w3-button">Kontakt</a>
     </div>
   </div>
 </div>
