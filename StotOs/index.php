@@ -51,9 +51,9 @@
       </div>
     
       <div class="container">
-        <input type="submit" value="Submit">
+        <input onclick="location.href='http://localhost/teater/Forside/index.html';" type="submit" value="Submit">
       </div>
     </form>
 </body>
 
-</html>
+</html> 
