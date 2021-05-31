@@ -6,16 +6,16 @@ form {
   /* Add some padding and a grey background color to containers */
   .container {
     padding: 20px;
-    background-color: #f1f1f1;
+    background-color: #ffffff;
   }
   
   /* Style the input elements and the submit button */
-  input[type=text], input[type=submit] {
+  input[type=text], input[type=email], input[type=submit] {
     
     padding: 12px;
     margin: 8px 0;
     display: inline-block;
-    border: 1px solid #ccc;
+    border: 1px solid rgb(255, 255, 255);
     box-sizing: border-box;
     width: 20%;
   }
@@ -27,6 +27,13 @@ form {
   
   /* Style the submit button */
   input[type=submit] {
+    background-color: #20003d;
+    color: white;
+    border: none;
+    width: 20%;
+  }
+
+  input[type=email] {
     background-color: #20003d;
     color: white;
     border: none;

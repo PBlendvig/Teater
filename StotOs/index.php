@@ -25,7 +25,7 @@
      <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-wide w3-padding w3-card">
-    <a href="../Forside/index.html#home" class="w3-bar-item w3-button"><b>Milles</b> Teater</a>
+    <a href="../Forside/index.html#home" class="w3-bar-item w3-button"><b>Aarhus</b> Teater</a>
     <!-- Float links to the right. Hide them on small screens -->
     <div class="w3-right w3-hide-small">
       <a href="../Forside/index.html#projects" class="w3-bar-item w3-button">Forestillinger</a>
@@ -44,7 +44,7 @@
     
       <div class="container" style="background-color:white">
         <input id="name" type="text" placeholder="Navn" name="name">
-        <input id="mail" type="email" placeholder="Email" name="mail">
+        <input id="mail" type="text" placeholder="Email" name="mail">
         <label>
           <!-- <input type="checkbox" checked="checked" name="offer"> Modtag også Tilbud! -->
         </label>
